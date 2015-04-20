@@ -1,0 +1,6 @@
+name = "Term-Progress-MulitiLine"
+# badges = ["travis"]
+authority="cpan:SKAJI"
+
+module_maker="ModuleBuildTiny"
+
